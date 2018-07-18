@@ -1,10 +1,11 @@
-# Script to scan media for news and tweet relevent content
+# AI Twitterbot
 
 ### Twitter is an awesome tool for sharing interesting stories. This script finds news reports about a specific topic using Aylien's NewsAPI and tweets the most popular story.
 
-### Getting started 
+## Getting started 
 
 ###Setup a twitter APP
+
 This script assumes you have a twitter account are familiar with the basics of twitter (e.g., what a tweet is and what a twitter handle is). 
 
 Go to `https://apps.twitter.com` and click the  "Create New App"  button. 
@@ -16,10 +17,13 @@ Select the `Keys and Access Tokens` tab.
 Click the `Generate Consumer Key and Secret`
 
 You will need to note the following credentials
+
 `Consumer Key (API Key)   ********************`
+
 `Consumer Secret (API Secret)      ******************`
 
 `Access Token ****************`
+
 `Access Token Secret   ************`
 
 ### Setup an Aylien News API account
@@ -35,7 +39,9 @@ You will need to create an application key.
 Next go to `https://newsapi.aylien.com/admin`  
 
 You need to note the following credentials:
+
 `App ID  ********`
+
 `AppKey  *****************`
 
 ### Using this script
