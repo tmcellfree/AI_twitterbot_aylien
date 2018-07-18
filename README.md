@@ -4,7 +4,7 @@
 
 ## Getting started 
 
-###Setup a twitter APP
+### Setup a twitter APP
 
 This script assumes you have a twitter account are familiar with the basics of twitter (e.g., what a tweet is and what a twitter handle is). 
 
